@@ -4,5 +4,5 @@ end
 
 def sort_array_desc(array)
   array.sort do |newarray|
-    a
+    -newarray
 end
