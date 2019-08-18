@@ -40,7 +40,7 @@ end
 def sum_array(array)
   sum = 0
   array.each do |num|
-   sum += 1
+   sum += num
 end
 
 def add_s
