@@ -32,10 +32,13 @@ def kesha_maker(array)
 end
 
 def find_a(array)
-  array.find
+  array.find_all do |word|
+    word[0] = "a"
+  end
 end
 
-def sum_array
+def sum_array(array)
+  
 end
 
 def add_s
