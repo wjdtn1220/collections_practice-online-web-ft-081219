@@ -48,4 +48,7 @@ end
 def add_s(array)
   array.collect each |word|
     if array[1] == word
+      word
+    else
+      
 end
