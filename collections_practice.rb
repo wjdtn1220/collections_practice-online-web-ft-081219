@@ -30,3 +30,13 @@ def kesha_maker(array)
     element[2] = "$"
   end
 end
+
+def find_a(array)
+  array.include?
+end
+
+def sum_array
+end
+
+def add_s
+end
